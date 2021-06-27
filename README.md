@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sairamkamalay
-- 👀 I’m interested in new Technologies.
-- 🌱 I’m currently learning Java 8.
+# 👋 Hi, I’m sairam
+# 👀 I’m interested in Data Structures and algorithms, Web development.
 
 <!---
 sairamkamalay/sairamkamalay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
