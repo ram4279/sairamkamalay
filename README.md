@@ -1,5 +1,5 @@
-# 👋 Hi, I’m sairam
-# 👀 I’m interested in Data Structures and algorithms, Web development.
+# 👋 Hi, I’m ram
+# 👀 I’m interested in Data Structures and algorithms, Network programming.
 
 <!---
 sairamkamalay/sairamkamalay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
